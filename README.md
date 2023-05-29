@@ -26,7 +26,7 @@ In this unconstrained version of HRP, suggested weights can exceed 100% of your 
         weights = weights/weights.sum()
  
 ## Notes
-### Issues with Markowitz
+### Issues with the Markowitz Model
 The Markowitz model can result in stability and sensitivity issues as it assumes the underlying covariance matrix is invertible. However, this is often not the case in practice due to estimation errors and other issues, leading to unstable and unreliable portfolio weights.
 
 ## Literature Review

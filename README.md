@@ -1,5 +1,5 @@
 # Simple HRP
- ## A basic implementation of Hierarchical Risk-Parity portfolio optimization.  
+ ## A basic implementation of Hierarchical Risk Parity (HRP) portfolio optimization.  
 
 Hierarchical Risk Parity (HRP) is a risk-based portfolio optimization algorithm that generates stable and diversified portfolios that helps investors achieve optimal allocation by reducing risk and maximizing returns and is generally more robust to estimation errors in the covariance matrix.
 

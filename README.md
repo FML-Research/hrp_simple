@@ -44,6 +44,8 @@ The Markowitz model can result in stability and sensitivity issues as it assumes
 [Markowitz and inverse covariance matrix](https://stats.stackexchange.com/questions/534035/markowitz-and-inverse-covariance-matrix)  
 [Hierarchical Risk Parity (HRP)](https://breakingdownfinance.com/finance-topics/modern-portfolio-theory/hierarchical-risk-parity/)
 
+FML-Research 2023
+
 
 
 
